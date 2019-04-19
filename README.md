@@ -1,2 +1,2 @@
 # cars
-ASimple Car classifier
+A Simple Car classifier
